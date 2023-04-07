@@ -9,7 +9,7 @@
     /* border: 1px solid red; */
     display: flex;
     align-items: center;
-    background-color: #006698;
+    background-color: #14a1e8bc;
 }
 .centerBox{
     /* border: 5px solid green; */
@@ -120,7 +120,7 @@ input[type=number] {
     /* border: 5px solid red; */
     margin-top: 15px;
     /* width: 150px; */
-    background-color: #006698;
+    background-color: #67b5dc;
     color: white;
     cursor: pointer;
 }
